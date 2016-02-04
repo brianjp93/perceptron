@@ -1,55 +1,55 @@
 -3.0
-word_order_______________0.0
-word_table_______________1.0
-word_mail________________-1.0
-word_hpl_________________-2.0
-word_you_________________-3.0
-word_george______________-15.0
-char_dollar______________5.0
-word_meeting_____________-7.0
-word_remove______________5.0
-word_original____________-3.0
-word_make________________-3.0
-word_cs__________________-19.0
-word_650_________________6.0
-word_857_________________2.0
-word_internet____________3.0
-word_project_____________-3.0
-word_business____________1.0
-word_data________________-2.0
-word_lab_________________-3.0
-word_people______________-5.0
-word_all_________________-2.0
-word_your________________0.0
-word_edu_________________-4.0
-word_labs________________-2.0
-word_000_________________2.0
-word_money_______________5.0
-char_lbracket____________-1.0
-word_technology__________2.0
-word_415_________________4.0
-word_our_________________2.0
-word_telnet______________-8.0
-word_over________________0.0
-char_semicolon___________-4.0
-word_font________________2.0
-word_address_____________1.0
-word_3d__________________7.0
-char_exclamation_________4.0
-word_hp__________________-6.0
-word_parts_______________7.0
-word_85__________________-6.0
-word_conference__________-8.0
-word_pm__________________-1.0
-word_will________________-2.0
-word_1999________________-3.0
-word_receive_____________1.0
-word_free________________3.0
-word_credit______________3.0
-word_email_______________-1.0
-char_lparen______________2.0
-word_report______________1.0
-word_addresses___________3.0
-char_pound_______________-1.0
-word_re__________________-2.0
-word_direct______________2.0
+word_85                  -6.0
+word_george              -15.0
+word_hpl                 -2.0
+word_remove              5.0
+word_receive             1.0
+word_edu                 -4.0
+word_report              1.0
+word_font                2.0
+word_pm                  -1.0
+word_3d                  7.0
+word_conference          -8.0
+word_address             1.0
+word_free                3.0
+word_people              -5.0
+char_exclamation         4.0
+word_our                 2.0
+word_internet            3.0
+char_lbracket            -1.0
+word_000                 2.0
+char_lparen              2.0
+word_technology          2.0
+word_original            -3.0
+word_parts               7.0
+word_telnet              -8.0
+char_semicolon           -4.0
+word_mail                -1.0
+word_all                 -2.0
+word_857                 2.0
+word_make                -3.0
+word_will                -2.0
+word_650                 6.0
+word_credit              3.0
+word_addresses           3.0
+word_direct              2.0
+char_dollar              5.0
+word_project             -3.0
+word_cs                  -19.0
+word_1999                -3.0
+word_415                 4.0
+word_you                 -3.0
+word_meeting             -7.0
+word_lab                 -3.0
+word_labs                -2.0
+word_your                0.0
+word_money               5.0
+word_re                  -2.0
+word_over                0.0
+word_email               -1.0
+char_pound               -1.0
+word_business            1.0
+word_table               1.0
+word_hp                  -6.0
+word_order               0.0
+word_data                -2.0

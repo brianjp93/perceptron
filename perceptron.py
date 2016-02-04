@@ -84,7 +84,8 @@ class Perceptron:
         loops = 0
         converged = False
         while not converged and loops < self.halt:
-            print("Running loop {}".format(loops))
+            if loops % 5 == 0:
+                print("Running loop {}".format(loops))
             converged = True
             random.shuffle(self.features)
             for sample in self.training:
