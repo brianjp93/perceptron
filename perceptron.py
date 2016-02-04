@@ -58,14 +58,10 @@ class Perceptron:
             if x != self.classname:
                 a += float(self.w[x]) * float(sample[x])
         a += self.b
-        # print(y*a)
         if y * a <= 0:
-            # print(y*a)
             for x in sample:
                 if x != self.classname:
-                    # print("old weight {}".format(self.w[x]))
                     self.w[x] = self.w[x] + (y * float(sample[x]))
-                    # print("new weight {}".format(self.w[x]))
             self.b += y
             return False
         else:
@@ -99,7 +95,6 @@ class Perceptron:
             loops += 1
 
     def perceptronTest(self, sample):
-        y = float(sample[self.classname])
         a = 0
         for x in sample:
             if x != self.classname:
@@ -131,8 +126,6 @@ def testTraining():
     test = sys.argv[2]
     model = sys.argv[3]
     p = Perceptron(training, test, model)
-    # print(p.features)
-    # print(p.w)
     p.perceptronTrain()
     correct = p.testModel()
     print("Perceptron got {}% correct out of {}".format(correct*100, len(p.test)))
